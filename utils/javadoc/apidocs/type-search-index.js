@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"pl.pz1.problem.visitors.identifier","l":"Identifier"},{"p":"pl.pz1.problem","l":"Library"},{"p":"pl.pz1.problem.visitors","l":"Reader"},{"p":"pl.pz1.problem.visitors","l":"Writer"}];updateSearchResults();
